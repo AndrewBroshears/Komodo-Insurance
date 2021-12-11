@@ -52,7 +52,7 @@ namespace KomodoInsurance.Repo
             }
             else
             {
-                return flase;
+                return false;
             }
         }
         public bool DeleteDeveloper(int DevloperId)

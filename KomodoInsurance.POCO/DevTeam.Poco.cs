@@ -8,6 +8,7 @@ namespace KomodoInsurance.POCO
 {
     public class DevTeamPoco
     {
+        List<DevTeamPoco> _devTeamPoco = new List<DevTeamPoco>();
         public DevTeamPoco() { }
         public DevTeamPoco(string devMembers, string devTeamName, int devTeamId)
         {

@@ -9,9 +9,10 @@ namespace KomodoInsurance.POCO
     public class DeveloperPoco
     {
         public DeveloperPoco() { }
-        public DeveloperPoco(string developerName, int developerId, bool pluralsight)
+        public DeveloperPoco(string developerFirstName, string developerLastName, int developerId, bool pluralsight)
         {
-            DeveloperName = developerName;
+            DeveloperFirstName = developerFirstName;
+            DeveloperLastName = developerLastName;
             DeveloperId = developerId;
             Pluralsight = pluralsight;
         }
