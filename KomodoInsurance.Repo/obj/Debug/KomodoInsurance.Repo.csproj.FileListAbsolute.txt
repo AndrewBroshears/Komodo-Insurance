@@ -1,0 +1,9 @@
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\bin\Debug\KomodoInsurance.Repo.dll
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\bin\Debug\KomodoInsurance.Repo.pdb
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\bin\Debug\KomodoInsurance.POCO.dll
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\bin\Debug\KomodoInsurance.POCO.pdb
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\obj\Debug\KomodoInsurance.Repo.csproj.AssemblyReference.cache
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\obj\Debug\KomodoInsurance.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\obj\Debug\KomodoInsurance.Repo.csproj.CopyComplete
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\obj\Debug\KomodoInsurance.Repo.dll
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\KomodoInsurance\KomodoInsuranceProject\KomodoInsurance.Repo\obj\Debug\KomodoInsurance.Repo.pdb
